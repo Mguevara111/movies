@@ -3,7 +3,11 @@ import { basepelis } from "./basepelis.js";
 let $movies=document.getElementById('movie-container');
 let $fragmento=document.createDocumentFragment();
 let $media=document.getElementById('media-container');
+let dsz=document.documentElement;
+let $btntotop=document.getElementById('btn-totop');
+
 document.addEventListener('DOMContentLoaded',()=>{
+    
     console.log($media.children.length)
     basepelis.forEach(el=>{
         let $divpe=document.createElement('figure');
@@ -22,7 +26,11 @@ document.addEventListener('DOMContentLoaded',()=>{
     })
     $movies.appendChild($fragmento);
     
-    document.addEventListener('click',(e)=>{
+    
+
+})
+
+document.addEventListener('click',(e)=>{
         if(e.target.matches('#watch-trailer')){
             //console.log('click')
             if($media.children.length!==0){
@@ -31,9 +39,20 @@ document.addEventListener('DOMContentLoaded',()=>{
             }
             $media.classList.add('enter-video');
             const dato=basepelis.find(el=>el.id===Number(e.target.dataset.id));
-            $media.innerHTML=`${dato.framever}`;
-            
+            $media.innerHTML=`${dato.framever}`; 
         }
-    })
+        if(e.target.matches('.btn-totop') || e.target.matches('.inner-img')){
+            dsz.scrollTop=0;
+        }
 })
 
+document.addEventListener('scroll',()=>{
+    //console.log(dsz.scrollTop)
+    if(dsz.scrollTop>=dsz.scrollHeight/2){
+       // console.log('muestra boton')
+        $btntotop.classList.add('btn-visible')
+    }
+    if(dsz.scrollTop<=dsz.scrollHeight/2){
+        $btntotop.classList.remove('btn-visible')
+    }
+})

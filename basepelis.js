@@ -175,5 +175,94 @@ export const basepelis=[
         trama:'El oscuro drama de Asura sigue la lucha de un niño que recurre al canibalismo y al asesinato para sobrevivir durante una terrible hambruna que asoló el Japón medieval, y es abandonado por su madre hambrienta y empobrecida.',
         linktrailer:'https://www.youtube.com/watch?v=uxzcX1tDOKs'
     },
+    {
+        id:17,
+        nombre:'Paprika',
+        anio:'2006',
+        pais:'Japón',
+        tipo:['Animación'],
+        foto:'./images/paprika.jpg',
+        framever:'<iframe width="560" height="315" src="https://www.youtube.com/embed/PIUqozzyW2k?si=GE3XzjJKCjTjcJkT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+        trama:'(a descargar) En un futuro próximo, la psiquiatra Atsuko Chiba (千葉敦子?) utiliza un método de terapia revolucionario, gracias a un proyecto corporativo del que forma parte, en el cual un grupo de investigadores desarrolla un dispositivo para navegar de forma consciente a través de los sueños y mejorar la detección, análisis y solución de traumas psicológicos.',
+        linktrailer:'https://www.youtube.com/watch?v=PIUqozzyW2k'
+    },
+    {
+        id:18,
+        nombre:'Nausicaä del Valle del Viento',
+        anio:'1984',
+        pais:'Japón',
+        tipo:['Animación'],
+        foto:'./images/nausica.jpg',
+        framever:'<iframe width="560" height="315" src="https://www.youtube.com/embed/6zhLBe319KE?si=gAqWczg_Cg09FEez" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+        trama:'(a descargar) En un futuro lejano, en un mundo post-apocalíptico, la Tierra está cubierta por unos bosques llenos de hongos venenosos e insectos gigantescos. Los humanos han quedado reducidos a unos pocos pueblos aislados que intentan sobrevivir a la plaga mientras luchan entre ellos. En medio de todo esto la princesa Nausicaä, del Valle del Viento, quien ama a los insectos, buscará comprender el origen del problema y conseguir la paz entre los hombres, y sobre todo entre éstos y el bosque.',
+        linktrailer:'https://www.youtube.com/watch?v=6zhLBe319KE'
+    },
+    {
+        id:19,
+        nombre:'Porco Rosso',
+        anio:'1992',
+        pais:'Japón',
+        tipo:['Animación'],
+        foto:'./images/porco.jpg',
+        framever:'<iframe width="560" height="315" src="https://www.youtube.com/embed/awEC-aLDzjs?si=cLjhifvri9LjP_yX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+        trama:'(a descargar) Periodo de entreguerras. Porco es un cerdo aviador que fustra todos los actos de piratería perpetrados por los piratas aéreos del Adriático. Éstos, decididos a acabar con el valiente y hábil Porco, se unen para contratar a un aventurero americano que le elimine de los aires donde las mafias operan',
+        linktrailer:'https://www.youtube.com/watch?v=awEC-aLDzjs'
+    },
+    {
+        id:20,
+        nombre:'Jisatsu Circle',
+        anio:'2001',
+        pais:'Japón',
+        tipo:['Drama','Gore'],
+        foto:'./images/suicidec.jpg',
+        framever:'<iframe width="560" height="315" src="https://www.youtube.com/embed/SNXuG7D6IGk?si=ifapIy-MNAqVuGG_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+        trama:'54 colegialas se suicidan conjuntamente lanzándose a las vías del tren tras un aparente pacto mortal. Este suceso, que deja atónitos a los investigadores, es solo el principio de lo que parece ser una serie de suicidios en cadena por todo Japón. El detective Kuroda y su equipo serán los encargados de llevar a cabo la investigación e intentarán encontrar una respuesta, pero averiguar el motivo de los suicidios masivos que se suceden en todo el país no será tarea fácil para los investigadores.',
+        linktrailer:'https://www.youtube.com/watch?v=SNXuG7D6IGk'
+    },
+    {
+        id:21,
+        nombre:'Ghost in the shell',
+        anio:'1995',
+        pais:'Japón',
+        tipo:['Animación'],
+        foto:'./images/gintheshell.jpg',
+        framever:'<iframe width="560" height="315" src="https://www.youtube.com/embed/8RF09G8Ymqg?si=pXAggBFcx8z-fSKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+        trama:'En el transcurso del año 2029, el planeta se recupera de una tercera guerra mundial nuclear. El plano geopolítico se ha transformado sustancialmente y una de las superpotencias más destacadas de esta nueva realidad es Japón. Una nueva guerra fría emerge, convirtiendo a la política internacional en una enrevesada lucha de intereses maquiavélicos, enfrentados a la delincuencia tecnológica y al terrorismo cibernético, trayendo como consecuencia que los delitos electrónicos sean un objetivo primordial para la seguridad internacional de todos los países.',
+        linktrailer:'https://www.youtube.com/watch?v=8RF09G8Ymqg'
+    },
+    {
+        id:22,
+        nombre:'Dabbe, la posesión',
+        anio:'2013',
+        pais:'Turquía',
+        tipo:['Terror'],
+        foto:'./images/dabbe.jpg',
+        framever:'<iframe width="560" height="315" src="https://www.youtube.com/embed/oFAHTz01f7g?si=GwiMd5NqhCWzsg1B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+        trama:'Kübra es una joven atormentada por un genio justo antes de su boda; asesina a su prometido la noche de la henna delante de toda la familia. Ebru es psiquiatra y amiga de la infancia de Kübra. Ebru quiere filmar las acciones de los supuestos exorcistas para intentar demostrar la existencia de los genios. Lleva a un exorcista, Faruk, a la aldea de Kübra para ver si puede curarla y demostrar la existencia de los genios. Visitan un árbol maldito a la entrada de la aldea y ven un extraño código, el 7175, grabado en el tronco.',
+        linktrailer:'https://www.youtube.com/watch?v=oFAHTz01f7g'
+    },
+     {
+        id:23,
+        nombre:'Exhuma',
+        anio:'2024',
+        pais:'Corea del sur',
+        tipo:['Terror'],
+        foto:'./images/exhumad.jpg',
+        framever:'<iframe width="560" height="315" src="https://www.youtube.com/embed/SgO94WJUNqw?si=EJTp59S43kIuUKeR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+        trama:'Exhuma cuenta la historia de los extraños sucesos que les suceden a geománticos, enterradores y chamanes que reubican tumbas sospechosas a cambio de dinero. La joven chamana Hwa-rim y su compañero Bong-gil responden a una llamada de ayuda procedente de Los Ángeles, Estados Unidos, donde algunos miembros de la rica familia Park padecen una enfermedad desconocida; el trabajo está bien pagado, por lo que lo aceptan, y perciben que el origen del mal está en un problema con la tumba de un antepasado. ',
+        linktrailer:'https://www.youtube.com/watch?v=SgO94WJUNqw'
+    },
+     {
+        id:24,
+        nombre:'Ich seh, Ich seh',
+        anio:'2014',
+        pais:'Austria',
+        tipo:['Terror psicológico'],
+        foto:'./images/gnm.webp',
+        framever:'<iframe width="560" height="315" src="https://www.youtube.com/embed/HCjApb9EDcg?si=5JAz3IxT64mRanJT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>',
+        trama:'Después de someterse a una cirugía estética facial, una mujer (Susanne Wuest), que anteriormente era miembro de un coro famoso en la televisión local, regresa a su casa moderna y aislada junto al lago con sus gemelos idénticos de nueve años. Elias y Lukas (Elias y Lukas Schwarz), quienes entran a la casa después de jugar afuera en un campo de maíz y el lago cercano. Su cabeza está envuelta en vendajes, y solo se ven sus ojos y su boca. Los gemelos están desconcertados por la apariencia de su madre y se sorprenden aún más cuando comienza a exhibir un comportamiento extraño.',
+        linktrailer:'https://www.youtube.com/watch?v=HCjApb9EDcg'
+    },
+
 
 ];
